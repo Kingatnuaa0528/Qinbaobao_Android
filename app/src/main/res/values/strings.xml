@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestAndroidApplication</string>
+    <string name="title_home">主页</string>
+    <string name="title_editor">新建</string>
+    <string name="title_my">我的</string>
+    <string name="editor_placeholder">宝宝是在笑、在跑...还是在发呆中？</string>
+</resources>
